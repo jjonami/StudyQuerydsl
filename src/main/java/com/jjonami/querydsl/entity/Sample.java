@@ -10,7 +10,7 @@ import javax.persistence.Id;
 
 @Entity
 @Getter @Setter
-public class SampleEntity {
+public class Sample {
 
     @Id
     @GeneratedValue
